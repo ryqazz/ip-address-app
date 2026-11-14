@@ -1,7 +1,7 @@
 # IP Address Information Tool (IPv4 / IPv6)
 
 **DEVASC Project Activity 3 – Social Coding, Option 2: New Application**
-System Integration · Team members: Daniel De Dios, [Member 2], [Member 3]
+System Integration · Team members: Daniel De Dios, Rohan Zarate, Justin Albelda
 
 A Python command-line application that gives network technicians formatted information
 about their current public IP addresses and any other IP address, using free public REST APIs.
